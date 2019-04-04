@@ -64,7 +64,7 @@ The cpu_extension.dll needs to be added to the arguments list for inference on C
 python object_detection_demo_yolov3.py <path_to_video>/inputVideo.mp4 -m <path_to_model>/yolo_v3.xml -d CPU --cpu_extension <path_to_cpu_extension>\cpu_extension.dll
 
 Sample usage with **python_samples** for Movidius
-python object_detection_demo_yolov3.py -i "C:\Intel\AI_on_PC\python_samples\CodeSample 3_ObjectDetectionYolov3\model_files\objects.mp4" -m "C:\Intel\AI_on_PC\python_samples\CodeSample 3_ObjectDetectionYolov3\model_files\FP16\frozen_darknet_yolov3_model.xml" -d MYRIAD
+python object_detection_demo_yolov3.py -i "C:\AI Devkit\Python_Samples\CodeSample 3_ObjectDetectionYolov3\model_files\objects.mp4" -m "C:\AI Devkit\Python_Samples\CodeSample 3_ObjectDetectionYolov3\model_files\FP16\frozen_darknet_yolov3_model.xml" -d MYRIAD
 
 ```
 > **NOTE**: Public models should be first converted to the Inference Engine format (`*.xml` + `*.bin`) using the [Model Optimizer](./docs/MO_DG/Deep_Learning_Model_Optimizer_DevGuide.md) tool.
