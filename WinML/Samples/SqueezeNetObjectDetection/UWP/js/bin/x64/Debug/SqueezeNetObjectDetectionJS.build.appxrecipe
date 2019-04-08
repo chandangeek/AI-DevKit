@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CVVICK-MOBL</Machine>
+    <WindowsUser>cvvick</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>2cf5f1aa-bf69-498c-8b74-04137b2f67f3</PackageIdentityName>
+    <PackageIdentityPublisher>CN=paulm</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\bld\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\bin\x64\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\assets\Labels.json">
+      <PackagePath>assets\Labels.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\assets\model.onnx">
+      <PackagePath>assets\model.onnx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\js\bin\x64\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\NETCore\cs\obj\Debug\netcoreapp2.1\SqueezeNetObjectDetectionNC.csprojAssemblyReference.cache
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\NETCore\cs\obj\Debug\netcoreapp2.1\SqueezeNetObjectDetectionNC.Properties.Resources.resources
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\NETCore\cs\obj\Debug\netcoreapp2.1\SqueezeNetObjectDetectionNC.csproj.GenerateResource.cache
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\NETCore\cs\obj\Debug\netcoreapp2.1\SqueezeNetObjectDetectionNC.csproj.CoreCompileInputs.cache
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\NETCore\cs\obj\Debug\netcoreapp2.1\SqueezeNetObjectDetectionNC.AssemblyInfoInputs.cache
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\NETCore\cs\obj\Debug\netcoreapp2.1\SqueezeNetObjectDetectionNC.AssemblyInfo.cs

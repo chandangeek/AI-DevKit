@@ -1,0 +1,1 @@
+C:\Users\cvvick\Source\Repos\MCDM_Intel\DeveloperContent-19H1\WinML\Samples\SqueezeNetObjectDetection\UWP\cs\SqueezeNetObjectDetectionCS.csproj;x64
